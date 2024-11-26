@@ -1,1 +1,8 @@
+NBA_Fantasy_Predictor/
+├── data/             # For data files (CSV, JSON, etc.)
+├── scripts/          # For Python scripts
+├── notebooks/        # For Jupyter Notebooks
+├── outputs/          # For visualizations or results
+├── requirements.txt  # For Python dependencies
+└── README.md         # Project description
 
